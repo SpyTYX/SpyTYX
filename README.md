@@ -1,0 +1,4 @@
+- 🔭 I’m currently working on Novaline Hub, Moon API, Mercury+
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: Message me on discord | Moonzy#0001
+- ⚡ Fun fact: I call my boy PS5 cuz he just turned 5 🔥🔥
