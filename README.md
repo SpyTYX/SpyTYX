@@ -1,5 +1,3 @@
-hi welcome to my profile
-i know lua and stuff (2+ years of luau experience)
-i love making roblox UIs (i suck)
+Backend + Frontend LUA + AGRO Developer, coding experience of 3 years.
 
-dont hire me
+[![__](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
