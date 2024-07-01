@@ -5,3 +5,4 @@ I know LUA, Rust, Batchscript, VBScript, Powershell and JavaScript
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=spytyx&show_icons=true&theme=transparent" alt="moonzy" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spytyx&show_icons=true&theme=transparent" alt="moonzy" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SpyTYX)](https://github.com/ryo-ma/github-profile-trophy)
